@@ -116,9 +116,6 @@ if (strlen($_SESSION['aid'] == 0)) {
                                                 <input type="text" class="form-control" id="mobilenumber" name="mobilenumber" placeholder="Please enter your mobile number" pattern="[0-9]{10}" title="10 numeric characters only" required="true">
 
                                             </div>
-
-
-
                                             <div class="form-group">
                                                 <input type="submit" class="btn btn-secondary btn-user btn-block" name="submit" id="submit">
                                             </div>
@@ -127,8 +124,6 @@ if (strlen($_SESSION['aid'] == 0)) {
                                     </div>
 
                                 </div>
-
-
 
                             </div>
                         </form>

@@ -32,22 +32,21 @@
 
 
           <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="new-user-testing.php">Testing</a>
+            <a class="nav-link" href="new-user-testing.php">Testing</a>
           </li>
 
           <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="login.php">Admin</a>
+            <a class="nav-link" href="login.php">Admin</a>
           </li>
 
-
           <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="#about">About Covid-19 </a>
+            <a class="nav-link" href="#about">About Covid-19 </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="#services">Covid-19 Symptoms</a>
+          <a class="nav-link" href="#services">Covid-19 Symptoms</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="#contact">Prevention</a>
+            <a class="nav-link" href="#contact">Prevention</a>
           </li>
 
         </ul>
@@ -66,10 +65,11 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-8 mx-auto">
-          <h2>About this page</h2>
-          <p class="lead">Coronavirus disease (COVID-19) is an infectious disease caused by a newly discovered coronavirus. Most people infected with the COVID-19, virus will experience mild to moderate, respiratory illness & recover without requiring special treatment. Older people and those with underlying medical problem like cardiovascular disease.</p>
-          <p class="lead">The COVID-19 virus spread primarily through droplet of saliva or discharge from the nose when an infected person coughs or sneezes so it’s important that you also practice respiratory etiquette.</p>
-
+          <h2>Overview</h2>
+          <p class="lead">Coronavirus disease (COVID-19) is an infectious disease caused by a newly discovered coronavirus.</p>
+          <p class="lead">Most people infected with the COVID-19 virus will experience mild to moderate respiratory illness and recover without requiring special treatment.  Older people, and those with underlying medical problems like cardiovascular disease, diabetes, chronic respiratory disease, and cancer are more likely to develop serious illness.</p>
+          <p class="lead">The best way to prevent and slow down transmission is to be well informed about the COVID-19 virus, the disease it causes and how it spreads. Protect yourself and others from infection by washing your hands or using an alcohol based rub frequently and not touching your face.</p>
+          <p class="lead">The COVID-19 virus spreads primarily through droplets of saliva or discharge from the nose when an infected person coughs or sneezes, so it’s important that you also practice respiratory etiquette (for example, by coughing into a flexed elbow)</p>
         </div>
       </div>
     </div>
@@ -81,14 +81,30 @@
         <div class="col-lg-8 mx-auto">
           <h2>Covid-19 Symptoms</h2>
           <hr />
-          <p><strong>Hight Fever 2-14 days!</strong><br />
-            Reported illnesses have ranged from mild symptoms to severe illness and death</p>
+          <p style="font-size:17px"><strong>Most common symptoms:</strong><br /></p>
+          <ul>
+          <li> <p style="font-size:17px">Fever</p></li>
+          <li> <p style="font-size:17px">Dry cough</p></li>
+          <li> <p style="font-size:17px">Tiredness</p></li>
+          </ul>
+
           <hr />
-          <p><strong>Dry Cough 2-14 days!</strong><br />
-            Reported illnesses have ranged from mild symptoms to severe illness and death</p>
+          <p style="font-size:17px"><strong>Less common symptoms:</strong><br /></p>
+          <ul>
+          <li> <p style="font-size:17px">Aches and pains</p></li>
+          <li> <p style="font-size:17px">Sore throat</p></li>
+          <li> <p style="font-size:17px">Loss of taste or smell</p></li>
+          <li> <p style="font-size:17px">A rash on skin</p></li>
+          </ul>
           <hr />
-          <p><strong>Shortness of breath!</strong><br />
-            Reported illnesses have ranged from mild symptoms to severe illness and death</p>
+          <p style="font-size:17px"><strong>Serious symptoms:</strong><br /></p>
+
+          <ul>
+          <li> <p style="font-size:17px">Difficulty breathing or shortness of breath</p></li>
+          <li> <p style="font-size:17px">Chest pain or pressure</p></li>
+          <li> <p style="font-size:17px">Loss of speech or movement</p></li>
+          </ul>
+         
         </div>
       </div>
     </div>
@@ -100,10 +116,13 @@
         <div class="col-lg-8 mx-auto">
           <h2>Prevention</h2>
           <ul>
-            <li>Wash your Hands often</li>
-            <li>Wear A Face mask</li>
-            <li>Avoid contact with sick people</li>
-            <li>Always cover your cough or sneeze</li>
+       <li><p style="font-size:18px">Wash your hands regularly with soap and water, or clean them with alcohol-based hand rub.</p></li> 
+       <li> <p style="font-size:18px"> Maintain at least 1 metre distance between you and people coughing or sneezing.</p></li> 
+       <li> <p style="font-size:18px"> Avoid touching your face.</p></li> 
+       <li>  <p style="font-size:18px">Cover your mouth and nose when coughing or sneezing.</p></li> 
+       <li> <p style="font-size:18px"> Refrain from smoking and other activities that weaken the lungs.</p></li> 
+       <li> <p style="font-size:18px"> Practice physical distancing by avoiding unnecessary travel and staying away from large groups of people.</p></li> 
+       <li>  <p style="font-size:18px"> Get vaccinated.</p></li>
           </ul>
         </div>
       </div>
